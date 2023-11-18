@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/desarrollo/angular/angular-observable-data-services/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/desarrollo/angular/angular-observable-data-services/"}
 ---
 
 
