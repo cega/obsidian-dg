@@ -1,30 +1,40 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 cega/obsidian-dg is built on the following main stack:
+
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Netlify](https://www.netlify.com/) – Static Web Hosting
 - [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
+- [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 cega/obsidian-dg is built on the following main stack:
+
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png' alt='Vercel AI SDK'/> [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [cega/obsidian-dg](https://github.com/cega/obsidian-dg)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|14<br/>Tools used|11/21/23 <br/>Report generated|
+|17<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -41,7 +51,28 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (3)
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (2)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'>
+  <br>
+  <sub><a href="http://www.microsoft.com/net/">.NET</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'>
+  <br>
+  <sub><a href="http://sass-lang.com/">Sass</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (4)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png' alt='Dotenv'>
@@ -55,6 +86,14 @@ Full tech stack [here](/techstack.md)
   <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
   <br>
   <sub><a href="http://git-scm.com/">Git</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg' alt='NuGet'>
+  <br>
+  <sub><a href="https://www.nuget.org/">NuGet</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -83,9 +122,17 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (1)
+## Other (2)
 <table><tr>
   <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png' alt='Vercel AI SDK'>
+  <br>
+  <sub><a href="https://sdk.vercel.ai/docs">Vercel AI SDK</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'>
   <br>
   <sub><a href="https://github.com/mzabriskie/axios">axios</a></sub>
@@ -97,9 +144,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (7)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (8)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (7)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -110,7 +157,6 @@ Full tech stack [here](/techstack.md)
 |[markdown-it](https://www.npmjs.com/markdown-it)|v13.0.1|11/18/23|cega |MIT|N/A|
 |[markdown-it-anchor](https://www.npmjs.com/markdown-it-anchor)|v8.6.7|11/18/23|cega |Unlicense|N/A|
 |[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|11/18/23|cega |MIT|N/A|
-|[sass](https://www.npmjs.com/sass)|v1.65.1|11/18/23|cega |MIT|N/A|
 
 <br/>
 <div align='center'>
